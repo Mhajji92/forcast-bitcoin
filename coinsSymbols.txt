@@ -1,0 +1,197 @@
+Bitcoin : BTC
+
+US dollar : USD
+
+Euro : EUR
+
+Ethereum : ETH	
+
+Cardano : ADA	
+
+Bitcoin Cash : BCH	
+	
+EOS : EOS	
+
+Kyber Network : KNC	
+
+VeChain : VET	
+
+XRP : XRP	
+	
+Ethereum Classic : ETC	
+
+Litecoin : LTC	
+
+Chainlink : LINK	
+
+Bitcoin SV : BSV	
+
+TRON : TRX	
+
+Okex : OKB	
+
+Crypto.com Chain Token : CRO	
+
+0x : ZRX	
+
+Zilliqa : ZIL	
+
+Binance Coin : BNB	
+
+OMG Network : OMG	
+
+Ontology : ONT	
+
+Stellar : XLM	
+
+Tezos : XTZ	
+
+Kcash : KCASH	
+
+IOS token : IOST	
+
+Fantom : FTM	
+
+QTUM : QTUM	
+
+Loopring : LRC	
+
+DEAPCOIN : DEP	
+
+Cosmos : ATOM	
+
+Ontology Gas : ONGAS	
+
+True Chain : TRUE	
+
+Monero : XMR	
+
+Bancor Network Token : BNT	
+
+Elrond : ERD	
+
+Tether : USDT	
+
+NEO : NEO	
+
+Nuls : NULS	
+
+Augur : REP	
+
+Compound : COMP	
+
+ICON Project : ICX	
+
+Dash : DASH	
+
+IOTA : MIOTA	
+
+Basic Attention Token : BAT	
+
+Crypto.com : MCO	
+
+USD Coin : USDC	
+
+Maker : MKR	
+
+Bitcoin Diamond : BCD	
+
+GIFTO : GTO	
+
+The Midas Touch Gold : TMTG	
+
+SwftCoin : SWFTC	
+
+Bytom : BTM	
+
+aelf : ELF	
+
+Huobi Token : HT	
+
+Paxos Standard : PAX	
+
+Kava : KAVA	
+
+Hedera Hashgraph : HBAR	
+
+Enjin Coin : ENJ	
+
+Gas : GAS	
+
+WazirX : WRX	
+
+BitTorrent : BTT	
+
+Content Value Network : CVNT	
+
+Status Network Token : SNT	
+
+Theta : THETA	
+
+REN : REN	
+
+Algorand : ALGO	
+
+Achain : ACHN	
+
+Decentraland : MANA	
+
+Hyperion : HYN	
+
+Genaro Network : GNX	
+
+Origin Protocol : OGN	
+
+Thunder Token : TT	
+
+Seele : SEELE	
+
+Chromia : CHR	
+
+Molecular Future : MOF	
+
+Bitcoin Gold : BTG	
+
+AirSwap : AST	
+
+Verge : XVG	
+
+LinkEye : LET	
+
+Aave : LEND	
+
+Ankr Network : ANKR	
+
+Nebulas : NAS	
+
+Matic Network : MATIC	
+
+Storj : STORJ	
+
+ArcBlock : ABT	
+
+Waltonchain : WTC	
+
+Civic : CVC	
+
+iEx.ec : RLC	
+
+HyperDAO : HDAO	
+
+True USD : TUSD	
+
+OriginSport : OGSP	
+
+DigiByte : DGB	
+
+Eminer : EM	
+
+Tripio : TRIO	
+
+Ravencoin : RVN	
+
+Golem Network Token : GNT	
+
+MovieBloc : MBL	
+
+TomoChain : TOMO	

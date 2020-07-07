@@ -1,0 +1,9 @@
+python3 == 3.7.4
+
+plotly == 3.10.0
+
+pandas == 0.25.1
+
+requests == 2.23.0
+
+xgboost == 1.1.1
