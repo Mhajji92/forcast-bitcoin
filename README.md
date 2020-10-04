@@ -8,4 +8,4 @@ Run the file 'get_data.py' from console (Mac or Linux) or Windows shell, because
 
 Run Jupyter notebook 'XGBoostModelBTC.ipynb' to train the model. Trained model is saved in 'Model' folder.
 
-Run 'forcastNext7Days.py' for make to make predictions for the next 7 days using the model you have trained. Then the prediction results are saved in csv format in 'prediction' folder.
+Run 'forcastNext7Days.py' to make predictions for the next 7 days using the model you have trained. Then the prediction results are saved in csv format in 'prediction' folder.
